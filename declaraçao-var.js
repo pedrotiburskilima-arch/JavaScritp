@@ -1,4 +1,7 @@
 function exemploVAR(){
+    console.log(x);
+    
+    
     var x = 10;
     if (true){
         var x = 28 //mesma variavel x é redeclarada dentrop do bloco 
