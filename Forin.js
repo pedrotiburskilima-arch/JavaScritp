@@ -1,6 +1,6 @@
 const carro = {
     marca: "Toyota"
-    modelo: "corolla"
+    Modelo: "corolla"
     ano: 2024,
     cor: "prata"
 };
