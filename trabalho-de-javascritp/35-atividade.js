@@ -1,0 +1,15 @@
+/*35. O que será impresso no console?*/
+
+let idade = 15;  
+if (idade >= 18) {  
+    console.log("Pode dirigir");  
+} else {  
+    console.log("Não pode dirigir");  
+}
+
+/*
+A) Pode dirigir  
+B) Não pode dirigir  (Correta)
+C) 15  
+D) Erro
+*/
